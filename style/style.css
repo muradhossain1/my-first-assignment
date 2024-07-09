@@ -57,6 +57,8 @@ body{
     margin: 0 auto;
     margin-top: 24px;
     color: rgb(13, 19, 33);
+    opacity: 0.7;
+
 }
 .banner-btn{
     width: 208px;
@@ -67,4 +69,85 @@ body{
     background-color: rgb(13, 19, 33);
     margin-top: 32px;
     border-radius: 8px;
+}
+ /* section-container */
+.section-container{
+    width: 1140px;
+    height: 1395px;
+    border: 2px solid red;
+    margin: 0 auto;
+    margin-top: 74px;
+    background-color: rgba(13, 19, 33, 0.02);
+}
+.section-contant{
+    width: 946px;
+    height: 1235px;
+    border: 2px solid red;
+    margin: 0 auto;
+}
+   
+.section-text{
+     width: 852px;
+    height: 115px;
+    border: 2px solid red;
+    margin: 0 auto;
+}
+.section-text h1{
+    width: 852px;
+    height: 39px;
+    font-size: 32px;
+    text-align: center;
+    }
+.section-text p{
+    width: 852px;
+    height: 52px;
+    text-align: center;
+    margin-top: 24px;
+    color: rgb(13, 19, 33);
+    opacity: 0.7;
+}
+/* section-items-style */
+.section-items{
+    width: 946px;
+    height: 336px;
+    border: 2px solid red;
+    margin: 0 auto;
+    margin-top: 32px;
+}
+.section-items-content{
+    width: 850px;
+    height: 240px;
+    border: 2px solid red;
+    margin: 0 auto;
+    margin-top: 48px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 255, 255);
+}
+.section-items-text{
+    width: 477px;
+   height: 219px;
+}
+.section-items-text h1{
+    width: 390px;
+    height: 72px;  
+    font-size: 24px;
+    margin-top: 10px;
+}
+.section-items-text p{
+    width:468px;
+    height: 52px;
+    font-size: 16px;
+    opacity: 0.7;
+}
+.section-items-text button{
+    width: 171px;
+    height: 47px;
+    font-size: 20px;
+    margin-top: 32px;
+}
+.section-items-img{
+    width: 259.56px;
+    height: 217.01px;
+    margin-right: 13px;
 }
